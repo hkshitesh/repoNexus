@@ -20,8 +20,8 @@
 </repositories>
 <distributionManagement>
   <snapshotRepository>
-    <id>calculator</id>
-    <name>calculator</name>
+    <id>upes</id>
+    <name>upes</name>
     <url>http://localhost:8081/repository/upes/</url>
   </snapshotRepository>
 </distributionManagement>
